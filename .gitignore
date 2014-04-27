@@ -1,2 +1,3 @@
 .idea/*
-target/classes/*class
+target/classes/*.class
+.DS_Store
