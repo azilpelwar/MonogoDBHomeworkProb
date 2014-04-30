@@ -1,3 +1,5 @@
 .idea/*
 target/classes/*.class
 .DS_Store
+target/classes/com/*.class
+*.class
