@@ -4,7 +4,6 @@ import com.mongodb.*;
 
 import java.io.IOException;
 
-
 public class Final_Q7 {
     public static void main(String[] args) throws IOException {
         MongoClient c =  new MongoClient(new MongoClientURI("mongodb://localhost"));
